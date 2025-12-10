@@ -162,7 +162,6 @@
 127.0.0.1 baidu9635.com
 127.0.0.1 baidustatic.com
 127.0.0.1 baidutv.baidu.com
-127.0.0.1 baikebcs.bdimg.com
 127.0.0.1 banlv.baidu.com
 127.0.0.1 bar.baidu.com
 127.0.0.1 bdplus.baidu.com
@@ -512,7 +511,6 @@
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 migc.g.mi.com
 127.0.0.1 migcreport.g.mi.com
-127.0.0.1 mis.g.mi.com
 127.0.0.1 notice.game.xiaomi.com
 127.0.0.1 ppurifier.game.xiaomi.com
 127.0.0.1 r.browser.miui.com
@@ -520,8 +518,6 @@
 127.0.0.1 shenghuo.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 union.mi.com
-127.0.0.1 wtradv.market.xiaomi.com
-127.0.0.1 xmpush.xiaomi.com
 127.0.0.1 ad.api.moji.com
 127.0.0.1 app.moji001.com
 127.0.0.1 cdn.moji002.com
@@ -571,9 +567,7 @@
 127.0.0.1 log.mix.sina.com.cn
 127.0.0.1 mobileads.dx.cn
 127.0.0.1 newspush.sinajs.cn
-127.0.0.1 pay.mobile.sina.cn
 127.0.0.1 sax.mobile.sina.cn
-127.0.0.1 sax.sina.com.cn
 127.0.0.1 saxd.sina.com.cn
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 sdkapp.uve.weibo.com
@@ -705,8 +699,6 @@
 127.0.0.1 ws.progrss.yahoo.com
 127.0.0.1 yads.yahoo.co.jp
 127.0.0.1 ybp.yahoo.com
-127.0.0.1 sugar.zhihu.com
-127.0.0.1 zhihu-web-analytics.zhihu.com
 127.0.0.1 shrek.6.cn
 127.0.0.1 simba.6.cn
 127.0.0.1 union.6.cn
@@ -957,7 +949,6 @@
 127.0.0.1 dol.tianyaui.cn
 127.0.0.1 dw.xcar.com.cn
 127.0.0.1 e.nexac.com
-127.0.0.1 eq.10jqka.com.cn
 127.0.0.1 exp.17wo.cn
 127.0.0.1 game.51yund.com
 127.0.0.1 ganjituiguang.ganji.com
@@ -974,7 +965,6 @@
 127.0.0.1 mobileads.msn.com
 127.0.0.1 n.cosbot.cn
 127.0.0.1 newton-api.ele.me
-127.0.0.1 ozone.10jqka.com.cn
 127.0.0.1 pdl.gionee.com
 127.0.0.1 pica-juicy.picacomic.com
 127.0.0.1 pixel.wp.com
@@ -987,7 +977,6 @@
 127.0.0.1 res.gwifi.com.cn
 127.0.0.1 ssp.kssws.ks-cdn.com
 127.0.0.1 sta.ganji.com
-127.0.0.1 stat.10jqka.com.cn
 127.0.0.1 stat.it168.com
 127.0.0.1 stats.chinaz.com
 127.0.0.1 stats.developingperspective.com
@@ -995,4 +984,3 @@
 127.0.0.1 tracker.yhd.com
 127.0.0.1 tralog.ganji.com
 127.0.0.1 up.qingdaonews.com
-127.0.0.1 vaserviece.10jqka.com.cn
