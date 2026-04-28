@@ -1,2 +1,2 @@
-<a href="https://projects.gitlab.io/auth?domain=https://zerodot1.gitlab.io&amp;root_namespace_id=1932776&amp;state=Cb5RqYT_8a-CwhDQWtfR1A==">Found</a>.
+<a href="https://projects.gitlab.io/auth?domain=https://zerodot1.gitlab.io&amp;root_namespace_id=1932776&amp;state=BamZuxAanYnLLD3SMg9DAA==">Found</a>.
 
